@@ -1,0 +1,13 @@
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\obj\Debug\netcoreapp3.1\Ordenacao_de_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\obj\Debug\netcoreapp3.1\Ordenacao_de_array.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\obj\Debug\netcoreapp3.1\Ordenacao_de_array.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\obj\Debug\netcoreapp3.1\Ordenacao_de_array.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\bin\Debug\netcoreapp3.1\Ordenacao_de_array.exe
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\bin\Debug\netcoreapp3.1\Ordenacao_de_array.deps.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\bin\Debug\netcoreapp3.1\Ordenacao_de_array.runtimeconfig.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\bin\Debug\netcoreapp3.1\Ordenacao_de_array.runtimeconfig.dev.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\bin\Debug\netcoreapp3.1\Ordenacao_de_array.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\bin\Debug\netcoreapp3.1\Ordenacao_de_array.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\obj\Debug\netcoreapp3.1\Ordenacao_de_array.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\obj\Debug\netcoreapp3.1\Ordenacao_de_array.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Ordenacao_de_array\Ordenacao_de_array\obj\Debug\netcoreapp3.1\Ordenacao_de_array.genruntimeconfig.cache

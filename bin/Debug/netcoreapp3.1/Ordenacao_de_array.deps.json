@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ordenacao_de_array/1.0.0": {
+        "runtime": {
+          "Ordenacao_de_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ordenacao_de_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
