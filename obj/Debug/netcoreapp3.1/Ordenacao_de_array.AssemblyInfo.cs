@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ordenacao_de_array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5046c998c12fd29489e449f9c55c7fc090a2f7e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23b3888378d3498cb7e81c7ab70bbdd5826ac480")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ordenacao_de_array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ordenacao_de_array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
